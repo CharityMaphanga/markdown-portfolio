@@ -1,1 +1,1 @@
-![Image of a dog] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencemag.org%2Fnews%2F2019%2F11%2Fhere-s-better-way-convert-dog-years-human-years-scientists-say&psig=AOvVaw0qB67wbN3s0SLV3-nlLylu&ust=1602259931034000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCL4smxpewCFQAAAAAdAAAAABAI)
+![Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)
